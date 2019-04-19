@@ -1,3 +1,13 @@
-baseURL = "http://example.org/"
+baseURL = "http://happymunday.online/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Happy Munday Podcast"
+paginate = 5
+theme = "bulma"
+
+enableRobotsTXT = true
+googleAnalytics = ""
+SectionPagesMenu = "main"
+
+[params]
+  description = "Great news to start your week"
+  powered_by = "Evan Machnic"
