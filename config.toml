@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Happy Munday Podcast"
 paginate = 5
 theme = "bulma"
-publishDir = "docs"
 
 enableRobotsTXT = true
 googleAnalytics = ""
