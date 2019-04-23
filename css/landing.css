@@ -19,6 +19,10 @@
   height: 45px;
 }
 
+.navbar-patron {
+  float: right;
+}
+
 .rounded {
   border-radius: 0.2rem;
 }
