@@ -45,3 +45,7 @@
 .hero .social-icon-set a {
   margin: auto 2px;
 }
+
+.title {
+  font-size: 2rem;
+}
